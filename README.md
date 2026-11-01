@@ -18,7 +18,7 @@ Frisco, Texas · Open to director level and above roles in AI governance, AI ris
 
 ### Published work
 
-***The Operating Discipline for AI Library™***, a nine volume executive reference series. All nine volumes published between May and September 2026, 3,242 pages in total. Most volumes carry Library of Congress and Dewey Decimal classifications.
+***The Operating Discipline for AI Library™***, a ten volume executive reference series in three pillars: AI business services, AI risk governance and security, and AI in education. All ten volumes published between May and November 2026, 3,580 pages in total. Most volumes carry Library of Congress and Dewey Decimal classifications.
 
 | | Title | Pages | Published |
 |---|---|---|---|
@@ -31,6 +31,7 @@ Frisco, Texas · Open to director level and above roles in AI governance, AI ris
 | VII | Secure by Design in the Age of AI™ | 444 | September 2026 |
 | VIII | Application Security in the Age of AI™ | 350 | September 2026 |
 | IX | Cloud and Infrastructure Security in the Age of AI™ | 258 | September 2026 |
+| X | The AI Ready School™ | 338 | November 2026 |
 
 Volume III carries a published crosswalk mapping AI governance operating artifacts to eleven frameworks and regulatory instruments, plus a full AI incident response framework.
 
@@ -53,7 +54,7 @@ USPTO trademark application pending for *AI Business Enablement Audit*, Serial N
 
 ### Projects here
 
-- **[srj-wikidata-mcp](https://github.com/srjordan6/srj-wikidata-mcp)**, a Model Context Protocol server for Wikidata built with a plan and approve gate: every write is planned, reviewed, and confirmed against the live API before it is reported as successful. Self hosted behind a Cloudflare Tunnel. It maintains the Wikidata records for all ten of my books, and every statement it writes carries a source. Listed in the Glama MCP directory.
+- **[srj-wikidata-mcp](https://github.com/srjordan6/srj-wikidata-mcp)**, a Model Context Protocol server for Wikidata built with a plan and approve gate: every write is planned, reviewed, and confirmed against the live API before it is reported as successful. Self hosted behind a Cloudflare Tunnel. It maintains the Wikidata records for all eleven of my books, and every statement it writes carries a source. Listed in the Glama MCP directory.
 
 Most of my current work runs in private repositories: publishing pipelines, agent orchestration, and client advisory tooling. Happy to walk through any of it.
 
